@@ -27,6 +27,3 @@
 # telegram: @jingsong87
 https://t.me/jingsong87
 
-
-
-**Contact for demo and token:** https://t.me/meandmyrule
